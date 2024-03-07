@@ -3,4 +3,4 @@ A step-by-step guide on how to preprocess brain MRI DICOM files to skull-strippe
 
 
 ![Alt text](./pipeline.svg)
-<img src="./pipeline.svg">
+
